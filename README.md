@@ -3,6 +3,10 @@
 A full-stack web application that allows users to download videos from multiple platforms (like YouTube) in different qualities, including audio (MP3), 
 with real-time progress tracking and a modern UI.
 
+
+## 🎥 Demo Video
+[![Watch Demo](https://img.youtube.com/vi/-BXOm2yvI_E/0.jpg)](https://www.youtube.com/watch?v=-BXOm2yvI_E)
+
 ---
 
 ## 🌟 Features
